@@ -1,0 +1,35 @@
+table {
+    border-collapse: collapse;
+    vertical-align: top;
+}
+
+table.list {
+    width: 100%;
+}
+
+table.list tr td {
+    border: 1px solid #999999;
+}
+
+table.list tr th {
+    border: 1px solid #0055DD;
+    background: #0055DD;
+    color: white;
+    text-align: left;
+}
+td.center {
+    text-align: center;
+}
+th.center{
+    text-align:center;
+}
+h2{
+    color:red;
+    text-align: center;
+    border: 1px solid black;
+    background: #80808033;
+    height: 50px;
+    line-height: 50px;
+    width: 700px;
+    margin: auto;
+}
